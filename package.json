@@ -1,0 +1,16 @@
+ {
+     "name": "medical-form-backend",
+     "version": "1.0.0",
+     "description": "Backend para receber dados de um formulário médico.",
+     "main": "server.js",
+     "scripts": {
+       "start": "node server.js"
+     },
+     "author": "",
+     "license": "ISC",
+     "dependencies": {
+       "cors": "^2.8.5",
+       "express": "^4.18.2"
+     }
+   }
+*/
