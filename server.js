@@ -92,21 +92,3 @@ app.listen(PORT, () => {
 // 6. Criar um arquivo package.json para gerenciar as dependências
 /* Para rodar este servidor, crie um arquivo package.json com o conteúdo abaixo
    e execute "npm install" no seu terminal.
-
-   Conteúdo do package.json:
-   {
-     "name": "medical-form-backend",
-     "version": "1.0.0",
-     "description": "Backend para receber dados de um formulário médico.",
-     "main": "server.js",
-     "scripts": {
-       "start": "node server.js"
-     },
-     "author": "",
-     "license": "ISC",
-     "dependencies": {
-       "cors": "^2.8.5",
-       "express": "^4.18.2"
-     }
-   }
-*/
